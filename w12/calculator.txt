@@ -1,0 +1,23 @@
+============================
+operator: +, -, *, /, , ^
+============================
+operand >> 5.00
+operator >> +
+operand >> 8.00
+result >> 13.00
+operand >> 13.00
+operator >> -
+operand >> 1.00
+result >> 12.00
+operand >> 12.00
+operator >> *
+operand >> 7.00
+result >> 84.00
+operand >> 84.00
+operator >> ^
+operand >> 2.00
+result >> 336.00
+operand >> 336.00
+operator >> -
+operand >> 4.00
+result >> 332.00
